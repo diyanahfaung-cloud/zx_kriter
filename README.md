@@ -246,7 +246,7 @@
                 img: "https://i.postimg.cc/BtH3MTbR/image.png",
                 desc: "คอมพิวเตอร์เพื่อการออกแบบ มี2 งาน 1งานเอสาร 2มายแมพ",
                 doc: "https://docs.google.com/document/d/1xffvOlmbgaNfpF2xxneXiyR30RFU8im5/edit?usp=sharing&ouid=101604807719918854225&rtpof=true&sd=true",
-                link: ["https://i.postimg.cc/BtH3MTbR/image.png"]
+                link: ["https://drive.google.com/file/d/1BSvO04XxlJrlyOQwX7jyqk_LQLUkdyJ-/view?usp=classroom_web&authuser=0"]
             },
             {
                 id: 2,
@@ -254,7 +254,7 @@
                 img: "https://i.postimg.cc/dDHfRDmf/image.png", 
                 desc: "ใบปลิวแนะนำตัว เรซูเม่ ",
                 doc: "#", 
-                link: ["https://i.postimg.cc/dDHfRDmf/image.png"]
+                link: ["https://drive.google.com/file/d/1_AOl-bZhuLGEhk5uavG_2kwpt-rdxcQH/view?usp=classroom_web&authuser=0"]
             },
             {
                 id: 3,
@@ -262,7 +262,7 @@
                 img: "https://i.postimg.cc/Ty00RHtZ/image.png",
                 desc: "ใบปลิวคืนสู่เหย้า รร มัธยมนาคนาวาอุปถัมภ์ ",
                 doc: "#",
-                link: ["https://i.postimg.cc/Ty00RHtZ/image.png"]
+                link: ["https://drive.google.com/file/d/1ZaLh5iULAxmUxJpKUw_ZQST7MMxYR1YI/view?usp=classroom_web&authuser=0"]
             },
             {
                 id: 4,
@@ -271,9 +271,9 @@
                 desc: "การ์ดคริสมาสนี้มี3ผลงาน 1Paint 2โปรแกรมหรือแอพลิเคชันใดก็ได้ 3AI",
                 doc: "#",
                 link: [
-                    "https://i.postimg.cc/LhYt7XFP/image.png",
-                    "https://i.postimg.cc/pyFjC6DM/image.png",
-                    "https://i.postimg.cc/gX6xMxLG/image.png"
+                    "https://drive.google.com/file/d/1arqptw3p9CJyYPUCIDo3GL1EzKyKc_Wc/view?usp=classroom_web&authuser=0",
+                    "https://drive.google.com/file/d/1DogGo0c1yxsR5DSvjvzur1n2Jd3wwy_y/view?usp=classroom_web&authuser=0",
+                    "https://drive.google.com/file/d/1jcu8-l_q7gDaa7_495dYgNJMW3U4rfUF/view?usp=classroom_web&authuser=0"
                 ]
             },
             {
@@ -282,7 +282,7 @@
                 img: "https://i.postimg.cc/vcvC1X2G/image.png",
                 desc: "การ์ดปีใหม่นี้มี2ปลงาน 1โปรแกรมหรือ แอพลิเคชันใดก็ได้งดTemplateหรือแบบสำเร็จรูป 2AI ข้อ AI Generate  ใช้ prompt เดียวกัน ใช้อย่างน้อย4เว็บไซต์ และระบุเว็บไซต์ที่ใช้ในการ Gen ภาพ AI ใส่ในไฟล์ Google Docs ",
                 doc: "https://docs.google.com/document/d/1faKcAbnc1TkrxOMM46OqrZpaPamsTNN6HJkolErwB4A/edit?usp=sharing",
-                link: ["https://i.postimg.cc/vcvC1X2G/image.png"]
+                link: ["https://drive.google.com/file/d/1XkZxQiG-W-G7QN1Idcc_49O_9Qi7ZT_Z/view?usp=classroom_web&authuser=0"]
             },
             {
                 id: 6,
@@ -290,7 +290,7 @@
                 img: "https://i.postimg.cc/jwQBzXd0/image.png", 
                 desc: "ออกแบบปกนิตยสาร หรือ Magazine ",
                 doc: "#", 
-                link: ["https://i.postimg.cc/jwQBzXd0/image.png"]
+                link: ["https://drive.google.com/file/d/1ETbVEOsG66IT-uANZ3ofBAh8_VmTqkZm/view?usp=classroom_web&authuser=0"]
             },
             {
                 id: 7,
@@ -307,8 +307,8 @@
                 desc: "ออกแบบการ์วาเลนไทน์มี2งาน 1ออกแบบเอง 2ใช้เอไอในการสร้างชิ้นงาน ",
                 doc: "#", // งานนี้ยังไม่มีลิงก์เอกสาร
                 link: [
-                    "https://i.postimg.cc/kBbgCznq/image.png", // รูปเพิ่มเติมที่ 1
-                    "https://i.postimg.cc/2S0RTJ34/kar-wa-len-thin-AI-png.png" // รูปเพิ่มเติมที่ 2 (เพิ่มใหม่)
+                    "https://drive.google.com/file/d/17zM-zEHAAkMEJJprsm9SSz4NiLgdFpT6/view?usp=classroom_web&authuser=0", // รูปเพิ่มเติมที่ 1
+                    "https://drive.google.com/file/d/1US82OuAHRgRF8PAp-cqWuSMK1qlt88Ea/view?usp=classroom_web&authuser=0" // รูปเพิ่มเติมที่ 2 (เพิ่มใหม่)
                 ] 
             }
         ];
